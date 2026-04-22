@@ -7,8 +7,10 @@ Profissional de Tecnologia da Informação com foco em automação, infraestrutu
 - Automação de processos com n8n
 - Gestão de chamados e processos com GLPI
 - Infraestrutura de TI corporativa
-- Redes cabeadas e Wi-Fi corporativo
+- Especialista em redes cabeadas e troubleshooting avançado
+- Diagnóstico e resolução de falhas complexas em rede
 - Windows Server / Active Directory
+- Administração avançada de AD + DHCP
 - Microsoft 365
 - Firewall e segurança
 - Conhecimento básico em MikroTik
@@ -23,7 +25,11 @@ Profissional de Tecnologia da Informação com foco em automação, infraestrutu
 ![n8n](https://img.shields.io/badge/n8n-Automação-orange)
 ![GLPI](https://img.shields.io/badge/GLPI-ServiceDesk-blue)
 ![Windows Server](https://img.shields.io/badge/Windows-Server-blue)
+![Active Directory](https://img.shields.io/badge/AD-Avançado-blue)
+![DHCP](https://img.shields.io/badge/DHCP-Avançado-green)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft-365-green)
+![Redes Cabeadas](https://img.shields.io/badge/Networking-Especialista-black)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Avançado-red)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-UniFi-black)
 ![MikroTik](https://img.shields.io/badge/MikroTik-Básico-red)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Scripts-blue)
