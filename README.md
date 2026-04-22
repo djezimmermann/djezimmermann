@@ -11,6 +11,8 @@ Profissional de Tecnologia da Informação com foco em automação, infraestrutu
 - Diagnóstico e resolução de falhas complexas em rede
 - Windows Server / Active Directory
 - Administração avançada de AD + DHCP
+- Monitoramento com Zabbix
+- Dashboards e métricas com Grafana
 - Microsoft 365
 - Firewall e segurança
 - Conhecimento básico em MikroTik
@@ -27,6 +29,8 @@ Profissional de Tecnologia da Informação com foco em automação, infraestrutu
 ![Windows Server](https://img.shields.io/badge/Windows-Server-blue)
 ![Active Directory](https://img.shields.io/badge/AD-Avançado-blue)
 ![DHCP](https://img.shields.io/badge/DHCP-Avançado-green)
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoramento-red)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft-365-green)
 ![Redes Cabeadas](https://img.shields.io/badge/Networking-Especialista-black)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Avançado-red)
@@ -46,6 +50,7 @@ Usar tecnologia para reduzir trabalho manual, melhorar processos e gerar resulta
 - Bots para Telegram
 - Integrações entre sistemas
 - Painéis e dashboards
+- Monitoramento com Zabbix e Grafana
 - Organização de suporte técnico
 - Soluções com IA
 
